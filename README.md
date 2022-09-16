@@ -1,0 +1,2 @@
+# Marketing Attributions
+ CoolTShirts sells t-shirts of all kinds, as long as they're T-shaped and cool. Recently, CTS started some marketing campaigns to increase website visits and purchases. Using touch attribution, they would like to map their customer's journey: from initial visit to purchase. They can use that information to optimize their marketing campaigns. CoolTShirts can reinvest in 5 campaigns. With the results obtained in this work, it will be decided which are the 5 campaigns in which it will be reinvested.
